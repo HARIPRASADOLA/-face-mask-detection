@@ -1,0 +1,22 @@
+FACE MASK DETECTION
+FINAL TEST DATASET EVALUATION
+==================================================
+
+Test Accuracy: 0.9879
+Test Accuracy: 98.79%
+
+Classification Report
+--------------------------------------------------
+              precision    recall  f1-score   support
+
+    WithMask     0.9937    0.9814    0.9875       483
+ WithoutMask     0.9825    0.9941    0.9883       509
+
+    accuracy                         0.9879       992
+   macro avg     0.9881    0.9877    0.9879       992
+weighted avg     0.9880    0.9879    0.9879       992
+
+Confusion Matrix
+--------------------------------------------------
+[[474   9]
+ [  3 506]]

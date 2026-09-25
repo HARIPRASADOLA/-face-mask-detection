@@ -1,0 +1,21 @@
+FACE MASK DETECTION - MODEL EVALUATION
+==================================================
+
+Accuracy: 0.9945
+Accuracy: 99.45%
+
+Classification Report
+--------------------------------------------------
+              precision    recall  f1-score   support
+
+   with_mask     0.0000    0.0000    0.0000         0
+without_mask     1.0000    0.9945    0.9972      2358
+
+    accuracy                         0.9945      2358
+   macro avg     0.5000    0.4972    0.4986      2358
+weighted avg     1.0000    0.9945    0.9972      2358
+
+Confusion Matrix
+--------------------------------------------------
+[[   0    0]
+ [  13 2345]]
